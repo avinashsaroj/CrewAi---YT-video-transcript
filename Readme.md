@@ -1,10 +1,3 @@
-
-# generate a readme.md file for this that i can download
-
-Absolutely! Here’s a full **README.md** for your project, formatted for GitHub. You can copy this text and save it as a file named **README.md** in your repository.
-
-***
-
 # AI Video Blog Content Generator
 
 Automate the research and writing of blog posts on trending tech topics, directly from YouTube videos, using a crew of collaborating agents powered by local LLMs.
